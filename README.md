@@ -1,1 +1,1 @@
-# Chess_C-_SFML
+# Chess C++ SFML
